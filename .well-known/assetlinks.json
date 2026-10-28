@@ -1,1 +1,10 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.angeloanalytics.app","sha256_cert_fingerprints":["74:6A:07:C6:74:AE:D6:AD:18:2E:14:F9:41:F1:E2:52:55:D1:C3:C9:2F:9F:F1:34:F4:59:EC:FC:70:E2:79:5B"]}}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.angelo4848.aanalytics",
+    "sha256_cert_fingerprints": [
+      "DC:03:96:18:10:E8:55:26:32:1C:E5:71:B5:F9:93:F8:FA:E2:08:59:50:D6:29:7D:B8:DA:15:9F:9E:DF:BC:E5"
+    ]
+  }
+}]
