@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "io.github.angelo4848.aanalytics",
     "sha256_cert_fingerprints": [
-      "DC:03:96:18:10:E8:55:26:32:1C:E5:71:B5:F9:93:F8:FA:E2:08:59:50:D6:29:7D:B8:DA:15:9F:9E:DF:BC:E5"
+      "DC:03:96:18:10:E8:55:26:32:1C:E5:71:B5:F9:93:F8:FA:E2:08:59:50:D6:29:7D:B8:DA:15:9F:9E:DF:BC:E5",
+      "C7:2A:98:FF:CF:EF:EE:88:E2:57:F6:F9:05:25:49:79:10:00:29:AE:36:D7:58:3A:C6:86:35:30:3B:0A:B3:A2"
     ]
   }
 }]
